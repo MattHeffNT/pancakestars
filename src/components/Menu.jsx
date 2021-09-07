@@ -188,14 +188,33 @@ function Menu() {
                     <Accordion.Item eventKey="0">
                         <Accordion.Header>PancakeStars Rules</Accordion.Header>
                         <Accordion.Body>
-                            <a
-                                href="../files/PancakeSTAROnline-instructions.pdf"
-                                target="_blank"
-                                rel="noopener noreferrer"
-                                download
-                            >
-                                PanCakeStar Rules
-                            </a>
+                            <ul>
+                                <li>
+                                    Each team starts with 5 PanCoins to purchase
+                                    ingredients.{' '}
+                                </li>
+                                <li>
+                                    Each team starts with a Quality Rating of 1
+                                    Star.{' '}
+                                </li>
+                                <li>
+                                    Consider carefully which Pancakes you will
+                                    cook first. Simple? Complex?{' '}
+                                </li>
+                                <li>
+                                    Consider carefully the distribution of risk,
+                                    um, I mean Pancakes, within your team. Do
+                                    you want everyone working on Complex
+                                    Pancakes, or should you have some simple
+                                    Pancakes in the mix too?{' '}
+                                </li>
+                                <li>
+                                    If your team is broke, and has 0 PanCoins,
+                                    the Regulators will undertake a Corporate
+                                    Bailout by giving each team an additional 5
+                                    PanCoins.
+                                </li>
+                            </ul>
                         </Accordion.Body>
                     </Accordion.Item>
                 </Accordion>
