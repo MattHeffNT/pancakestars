@@ -1,4 +1,4 @@
-## PanCake Stars
+# PanCake Stars
 
 ---
 
@@ -6,6 +6,6 @@ Pancake Stars is a game created by Kathy Reid for the 3AI 2021 Cohort as a way i
 
 <strong>page link</strong>: https://mattheffnt.github.io/pancakestars/
 
-# Getting Started with Create React App
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
