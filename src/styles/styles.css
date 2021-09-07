@@ -20,3 +20,7 @@ Button {
     margin: 1px !important;
     border-radius: 10px;
 }
+
+.accordion-body {
+    text-align: left !important;
+}
